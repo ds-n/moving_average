@@ -3,7 +3,7 @@ import math
 from wma import wma
 
 
-class TestSimpleMovingAverage(unittest.TestCase):
+class TestWeightedMovingAverage(unittest.TestCase):
 
     def test_wma(self):
         res_v1 = wma([1, 2, 3, 7, 9])
