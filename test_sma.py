@@ -1,6 +1,6 @@
 import unittest
 import math
-from sma import sma, sma_v2
+from mma import sma, sma_v2
 
 
 class TestSimpleMovingAverage(unittest.TestCase):

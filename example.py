@@ -1,7 +1,3 @@
-# moving_average
-Package to compute moving average
-
-```python
 import matplotlib.pyplot as plt
 import numpy as np
 from mma import sma
@@ -18,5 +14,3 @@ ax.plot(x, r)
 ax.plot(x, s5)
 ax.plot(x, s15)
 plt.show()
-
-```

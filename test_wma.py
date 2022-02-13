@@ -1,6 +1,6 @@
 import unittest
 import math
-from wma import wma
+from mma import wma
 
 
 class TestWeightedMovingAverage(unittest.TestCase):
